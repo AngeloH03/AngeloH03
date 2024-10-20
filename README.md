@@ -1,4 +1,4 @@
-- 👋 Hello ther !
+- 👋 Hello there !
 - GENERAL KENO... I'm @AngeloH03
 - 👀 I’m interested in computer science in general such as programming, networking but I'm mostly interested in game developpement.
 - 🌱 I’m currently learning Java, Godot and C++.
